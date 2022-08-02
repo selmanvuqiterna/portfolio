@@ -1,5 +1,6 @@
 import "./intro.css";
 import Me from "../../img/me.png";
+import Pic from "../../img/picture.PNG";
 
 const Intro = () => {
   return (
@@ -83,7 +84,7 @@ const Intro = () => {
       </div>
       <div className="i-right">
         <div className="i-bg"></div>
-        <img src={Me} alt="" className="i-img" />
+        <img src={Pic} alt="" className="i-img" />
       </div>
     </div>
   );
