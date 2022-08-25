@@ -1,5 +1,4 @@
 import "./about.css";
-import Award from "../../img/award.png";
 import Card from "../../img/card.png";
 import Achievement from "../../img/achievement.png";
 import Diploma from "../../img/diploma.PNG";
