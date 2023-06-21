@@ -1,5 +1,5 @@
 import "./intro.css";
-import Pic from "../../img/picture.PNG";
+import Pic from "../../img/picture.61c14a75.PNG";
 
 const Intro = () => {
   return (
@@ -16,12 +16,12 @@ const Intro = () => {
               <div className="i-title-item">JavaScript</div>
               <div className="i-title-item">NodeJs</div>
               <div className="i-title-item">HTML/CSS</div>
+              <div className="i-title-item">MYSQL</div>
               <div className="i-title-item"></div>
             </div>
           </div>
           <p className="i-desc">
            Im Selman, I am a full stack web developer. While Im in Kosova I build websites for people all over the world.
-           
           </p>
         </div>
         <svg

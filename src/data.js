@@ -11,7 +11,7 @@ export const products = [
     img: "https://lh3.googleusercontent.com/hlWr3kldFII8PAevO_vm3hnp6wowVIZIdDeh4mFYMvjxhLsjGU24jjxH2fmMi0y4Wj8YR9wf2YCleaHJRUFcONV_Ng=w640-h400-e365-rj-sc0x00ffffff",
     link: "https://sp.booking.com/index.html?aid=1535067&label=enxl-edge-ntp-topsites-curate-ana",
   },
-  {
+  { 
     id: 3,
     img: "https://www.researchgate.net/profile/Maurizio-Ferrari-Dacrema-2/publication/351574981/figure/fig1/AS:1023236699598848@1620970048104/The-Netflix-homepage-an-example-of-carousel-user-interface-in-the-multimedia-streaming.jpg",
     link: "https://www.netflix.com/rs/",

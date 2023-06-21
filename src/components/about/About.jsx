@@ -18,15 +18,14 @@ const About = () => {
       </div>
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
-        <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
-        </p>
         <p className="a-desc">
-          Hi, My name is Selman Vuqiterna, I am from Kosovo, I am a Web Developer.
-          Currently I am studying at UBT in the field of Computer Science and Engineer.
-          I have knowledge in ReactJs, NodeJs, JavaScript, HTML/CSS.
-          This is the Portfolio that Im going to apply with in StarLabs Intership.
+        As a skilled Front-End Developer, I bring expertise in crafting visually appealing and userfriendly interfaces. With a keen eye for design and proficiency in HTML, CSS, JavaScript,
+        NodeJs and ReactJs, I create seamless web experiences that exceed user expectations. I
+        am adept at collaborating with cross-functional teams to translate client requirements
+        into engaging digital solutions. Additionally, my strong problem-solving abilities enable
+        me to troubleshoot and optimize code for optimal performance. Committed to
+        continuous learning, I stay abreast of emerging trends and technologies to deliver
+        cutting-edge web solutions
         </p>
         <div className="a-award">
           <img src={Achievement} alt="" className="a-award-img" />

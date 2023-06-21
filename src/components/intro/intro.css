@@ -75,11 +75,11 @@
 
 .i-img {
   width: 500px;
-  height:330px ;
+  height:300px ;
   object-fit: cover;
   position: absolute;
-  margin-top: 200px;
-  margin-left: 100px;
+  margin-top: 230px;
+  margin-left: 250px;
  
 
 }
@@ -95,6 +95,23 @@
 }
 
 @media screen and (max-width: 480px) {
+  .i-img {
+  width:500px;
+  height:400px ;
+  object-fit: cover;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 35px;
+ 
+
+}
+.i-bg {
+ display: none;
+}
+.i-right{
+  background-color: #001128;
+}
+
   .i {
     flex-direction: column;
   }
